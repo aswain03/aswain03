@@ -1,6 +1,9 @@
-### Hi there 👋
+### Coding. Hiking. Cooking. Gardening. Modest. Moustache.
+[corner_alex](https://github.com/aswain03/aswain03/assets/87860526/bd262593-d7e0-4efa-b43a-02866e84fb93)
 
-<!--
+
+<!--!
+
 **aswain03/aswain03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
