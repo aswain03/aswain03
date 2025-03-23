@@ -1,5 +1,4 @@
 ### Coding. Hiking. Cooking. Gardening. Modest. Moustache.
-![corner_alex](https://github.com/aswain03/aswain03/assets/87860526/2ec18f07-a015-4e64-81d0-2b919f922ad6)
 
 
 
